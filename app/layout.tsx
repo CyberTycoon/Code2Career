@@ -10,11 +10,11 @@ export const metadata: Metadata = {
   title: 'Code2Career',
   description: 'Learn, Build, Grow. Launch Your Career.',
   keywords: 'coding, programming, career, development, learning, projects, portfolio',
-  authors: [{ name: 'Code2Career', url: 'https://code2career.vercel.app' }],
+  authors: [{ name: 'Code2Career', url: 'https://code2-career.vercel.app' }],
   openGraph: {
     title: 'Code2Career',
     description: 'Learn, Build, Grow. Launch Your Career.',
-    url: 'https://code2career.vercel.app',
+    url: 'https://code2-career.vercel.app',
     siteName: 'Code2Career',
     images: [
       {
